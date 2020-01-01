@@ -1,0 +1,2 @@
+- I haven't looked into the allowed max file size for types in DayZ
+- Commented code is not allowed during PR process, delete it before attempting
